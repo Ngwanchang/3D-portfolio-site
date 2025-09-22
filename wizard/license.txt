@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tim Mckee - Boy Wizard
+* source:	https://sketchfab.com/3d-models/tim-mckee-boy-wizard-900beec6d3504d51ade81cb5c052163b
+* author:	elbertwithane (https://sketchfab.com/elbertwithane)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tim Mckee - Boy Wizard" (https://sketchfab.com/3d-models/tim-mckee-boy-wizard-900beec6d3504d51ade81cb5c052163b) by elbertwithane (https://sketchfab.com/elbertwithane) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

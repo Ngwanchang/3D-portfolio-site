@@ -1,8 +1,9 @@
 import { Inter } from "next/font/google";
+import clsx from 'clsx';
 import "./globals.css";
-import clsx from "clsx";
-import FireFliesBackground from "@/components/FireFliesBackground";
-import Sound from "@/components/Sound";
+import FirefliesBackground from "@/components/FireFliesBackground";
+
+
 
 const inter = Inter({
   subsets: ["latin"],
@@ -30,8 +31,7 @@ export default function RootLayout({ children }) {
         )}
       >
         {children}
-        <FireFliesBackground />
-        <Sound />
+        <FirefliesBackground />
         <div id="my-modal" />
       </body>
     </html>
