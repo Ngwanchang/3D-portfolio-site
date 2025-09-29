@@ -4,6 +4,7 @@ import Image from 'next/image';
 import Navigation from '@/components/navigation';
 import Rendermodel from '@/components/Rendermodel';
 import WizardModel from '@/components/models/wizard';
+import AboutDetails from '@/components/about';
 export default function AboutPage() {
 
   return (
@@ -25,6 +26,9 @@ export default function AboutPage() {
           <Rendermodel className="w-full h-[420px] z-10">
             <WizardModel />
           </Rendermodel>
+        </div>
+        <div className="w-full mt-16 md:mt-24">
+          <AboutDetails />
         </div>
       </div>
       </main>

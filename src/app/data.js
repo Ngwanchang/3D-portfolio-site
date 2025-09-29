@@ -114,7 +114,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "/threejs_portfolio_resources.pdf",
     icon: "resume",
     newTab: true,
   },
