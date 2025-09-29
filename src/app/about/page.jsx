@@ -5,6 +5,8 @@ import Navigation from '@/components/navigation';
 import Rendermodel from '@/components/Rendermodel';
 import WizardModel from '@/components/models/wizard';
 import AboutDetails from '@/components/about';
+import HatModel from '@/components/models/hat-model';
+import Staff from '@/components/models/stafff';
 export default function AboutPage() {
 
   return (
@@ -24,7 +26,9 @@ export default function AboutPage() {
         <Navigation />
         <div className="w-full h-[420px]">
           <Rendermodel className="w-full h-[420px] z-10">
-            <WizardModel />
+            
+            
+            <Staff position={[1.2, 0, 0]} scale={[1.5,1.5,1.5]} />
           </Rendermodel>
         </div>
         <div className="w-full mt-16 md:mt-24">
